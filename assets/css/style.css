@@ -84,11 +84,11 @@ body::-webkit-scrollbar-track{
     letter-spacing: 2px;
     font-weight: 300;
     font-size: 16px;
-    width: 83px;
-    height: 49px;
+    width: 60px;
+    height: 45px;
 
     border-radius: 15px;
-    background-color: rgba(255, 123, 0, 0.445);
+    background-color: rgba(255, 123, 0, 0);
     text-decoration: none;
 
     cursor: pointer;
@@ -100,7 +100,7 @@ body::-webkit-scrollbar-track{
     }
 }
 .burger:hover{
-    background-color: rgba(255, 123, 0, 0.644);
+    background-color: rgba(255, 123, 0, 0.315);
     box-shadow: 0px 3px 9px #424242;
 }
 .burger:active{
